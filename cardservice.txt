@@ -1,0 +1,101 @@
+<div id="page-container" style="padding-top: 79px; overflow-y: hidden;" data-height-onload="66" data-fixed-height-onload="0" style="top: 0px;">
+   <div id="zp-second-section" class="et_pb_section et_pb_section_1 et_section_specialty">
+			
+      <div class="et_pb_row">
+         <div class="et_pb_column et_pb_column_1_3 et_pb_column_4    et_pb_css_mix_blend_mode_passthrough et_pb_column_single">
+   
+      <div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light et_had_animation" style="">
+      
+      
+      <div class="et_pb_text_inner"><h2><span style="color: #1abec8;">Our</span> <span style="color: #333333;">Services</span></h2></div>
+   </div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light et_had_animation" style="">
+      
+      
+      <div class="et_pb_text_inner"><h4>Zapdas is a platform where services you can trust, quality you can afford!</h4>
+<p><span style="color: rgba(41, 41, 41, 0.65);"><br>
+Grow your business with our quality and cost-effective services.</span></p></div>
+   </div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_7 et_clickable  et_pb_text_align_left et_pb_bg_layout_light">
+      
+      
+      <div class="et_pb_text_inner"><p><a href="https://zapdas.co/services"><span class="menu-button menu-button2" style="padding: 10px 24px;">SEE MORE</span></a></p></div>
+   </div> <!-- .et_pb_text -->
+   </div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_2_3 et_pb_column_5   et_pb_specialty_column  et_pb_css_mix_blend_mode_passthrough et-last-child">
+      
+      
+      <div class="et_pb_row_inner et_pb_row_inner_0 et_pb_gutters1 et_had_animation" style="">
+      <div class="et_pb_column et_pb_column_1_3 et_pb_column_inner et_pb_column_inner_0 et_pb_column_1_2">
+      
+      
+      <div class="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light et_had_animation" style="">
+      
+      
+      <div class="et_pb_blurb_content">
+         <div class="et_pb_main_blurb_image"><a href="https://zapdas.co/services/#Digital_Branding"><span class="et_pb_image_wrap"><img alt="" data-srcset="https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op.png 95w, https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op-48x48.png 48w" data-src="https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op.png" data-sizes="(max-width: 95px) 100vw, 95px" class="et-waypoint et_pb_animation_top et-animated ls-is-cached lazyloaded" src="https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op.png" sizes="(max-width: 95px) 100vw, 95px" srcset="https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op.png 95w, https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op-48x48.png 48w"><noscript><img src="https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op.png" alt="" srcset="https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op.png 95w, https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/dig-branding-op-48x48.png 48w" sizes="(max-width: 95px) 100vw, 95px" class="et-waypoint et_pb_animation_top" /></noscript></span></a></div>
+         <div class="et_pb_blurb_container">
+            <h4 class="et_pb_module_header"><a href="https://zapdas.co/services/#Digital_Branding">Digital Branding</a></h4>
+            <div class="et_pb_blurb_description"><p><span style="color: rgba(41, 41, 41, 0.65);">We use strategic marketing tactics that have been proven to work.</span></p></div>
+         </div>
+      </div> <!-- .et_pb_blurb_content -->
+   </div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_1  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light et_had_animation" style="">
+      
+      
+      <div class="et_pb_blurb_content">
+         <div class="et_pb_main_blurb_image"><a href="https://zapdas.co/services/#UI/UX_Development"><span class="et_pb_image_wrap"><img alt="" data-srcset="https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op.png 76w, https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op-48x48.png 48w" data-src="https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op.png" data-sizes="(max-width: 76px) 100vw, 76px" class="et-waypoint et_pb_animation_top et-animated ls-is-cached lazyloaded" src="https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op.png" sizes="(max-width: 76px) 100vw, 76px" srcset="https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op.png 76w, https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op-48x48.png 48w"><noscript><img src="https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op.png" alt="" srcset="https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op.png 76w, https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/ui-ux-op-48x48.png 48w" sizes="(max-width: 76px) 100vw, 76px" class="et-waypoint et_pb_animation_top" /></noscript></span></a></div>
+         <div class="et_pb_blurb_container">
+            <h4 class="et_pb_module_header"><a href="https://zapdas.co/services/#UI/UX_Development">UI/UX Development</a></h4>
+            <div class="et_pb_blurb_description"><p><span style="color: rgba(41, 41, 41, 0.65);">Powerful design’s that will out-perform your strongest competitors.</span></p></div>
+         </div>
+      </div> <!-- .et_pb_blurb_content -->
+   </div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_2  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light et_had_animation" style="">
+      
+      
+      <div class="et_pb_blurb_content">
+         <div class="et_pb_main_blurb_image"><a href="https://zapdas.co/services/#Data_Analytics"><span class="et_pb_image_wrap"><img alt="" data-srcset="https://zapdas.co/wp-content/uploads/2020/02/bi-data-op.png 120w, https://zapdas.co/wp-content/uploads/2020/02/bi-data-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/bi-data-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/bi-data-op-48x48.png 48w" data-src="https://zapdas.co/wp-content/uploads/2020/02/bi-data-op.png" data-sizes="(max-width: 120px) 100vw, 120px" class="et-waypoint et_pb_animation_top et-animated ls-is-cached lazyloaded" src="https://zapdas.co/wp-content/uploads/2020/02/bi-data-op.png" sizes="(max-width: 120px) 100vw, 120px" srcset="https://zapdas.co/wp-content/uploads/2020/02/bi-data-op.png 120w, https://zapdas.co/wp-content/uploads/2020/02/bi-data-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/bi-data-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/bi-data-op-48x48.png 48w"><noscript><img src="https://zapdas.co/wp-content/uploads/2020/02/bi-data-op.png" alt="" srcset="https://zapdas.co/wp-content/uploads/2020/02/bi-data-op.png 120w, https://zapdas.co/wp-content/uploads/2020/02/bi-data-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/bi-data-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/bi-data-op-48x48.png 48w" sizes="(max-width: 120px) 100vw, 120px" class="et-waypoint et_pb_animation_top" /></noscript></span></a></div>
+         <div class="et_pb_blurb_container">
+            <h4 class="et_pb_module_header"><a href="https://zapdas.co/services/#Data_Analytics">BI &amp; Data Analytics</a></h4>
+            <div class="et_pb_blurb_description"><p><span style="color: rgba(41, 41, 41, 0.65);">We bring the power of data science to every busniess.</span></p></div>
+         </div>
+      </div> <!-- .et_pb_blurb_content -->
+   </div> <!-- .et_pb_blurb -->
+   </div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_inner et_pb_column_inner_1 et_pb_column_1_2 et-last-child">
+      
+      
+      <div class="et_pb_module et_pb_blurb et_pb_blurb_3  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light et_had_animation" style="">
+      
+      
+      <div class="et_pb_blurb_content">
+         <div class="et_pb_main_blurb_image"><a href="https://zapdas.co/services/#Mobile_Development"><span class="et_pb_image_wrap"><img alt="" data-srcset="https://zapdas.co/wp-content/uploads/2020/02/app-dev-op.png 72w, https://zapdas.co/wp-content/uploads/2020/02/app-dev-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/app-dev-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/app-dev-op-48x48.png 48w" data-src="https://zapdas.co/wp-content/uploads/2020/02/app-dev-op.png" data-sizes="(max-width: 72px) 100vw, 72px" class="et-waypoint et_pb_animation_top et-animated ls-is-cached lazyloaded" src="https://zapdas.co/wp-content/uploads/2020/02/app-dev-op.png" sizes="(max-width: 72px) 100vw, 72px" srcset="https://zapdas.co/wp-content/uploads/2020/02/app-dev-op.png 72w, https://zapdas.co/wp-content/uploads/2020/02/app-dev-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/app-dev-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/app-dev-op-48x48.png 48w"><noscript><img src="https://zapdas.co/wp-content/uploads/2020/02/app-dev-op.png" alt="" srcset="https://zapdas.co/wp-content/uploads/2020/02/app-dev-op.png 72w, https://zapdas.co/wp-content/uploads/2020/02/app-dev-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/app-dev-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/app-dev-op-48x48.png 48w" sizes="(max-width: 72px) 100vw, 72px" class="et-waypoint et_pb_animation_top" /></noscript></span></a></div>
+         <div class="et_pb_blurb_container">
+            <h4 class="et_pb_module_header"><a href="https://zapdas.co/services/#Mobile_Development">Application Development</a></h4>
+            <div class="et_pb_blurb_description"><p><span style="color: rgba(41, 41, 41, 0.65);">We implement complex custom applications ground up.</span></p></div>
+         </div>
+      </div> <!-- .et_pb_blurb_content -->
+   </div> <!-- .et_pb_blurb --><div class="et_pb_module et_pb_blurb et_pb_blurb_4  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light et_had_animation" style="">
+      
+      
+      <div class="et_pb_blurb_content">
+         <div class="et_pb_main_blurb_image"><a href="https://zapdas.co/services/#Cloud_Management"><span class="et_pb_image_wrap"><img alt="" data-srcset="https://zapdas.co/wp-content/uploads/2020/02/cloud-op.png 77w, https://zapdas.co/wp-content/uploads/2020/02/cloud-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/cloud-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/cloud-op-48x48.png 48w" data-src="https://zapdas.co/wp-content/uploads/2020/02/cloud-op.png" data-sizes="(max-width: 77px) 100vw, 77px" class="et-waypoint et_pb_animation_top et-animated ls-is-cached lazyloaded" src="https://zapdas.co/wp-content/uploads/2020/02/cloud-op.png" sizes="(max-width: 77px) 100vw, 77px" srcset="https://zapdas.co/wp-content/uploads/2020/02/cloud-op.png 77w, https://zapdas.co/wp-content/uploads/2020/02/cloud-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/cloud-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/cloud-op-48x48.png 48w"><noscript><img src="https://zapdas.co/wp-content/uploads/2020/02/cloud-op.png" alt="" srcset="https://zapdas.co/wp-content/uploads/2020/02/cloud-op.png 77w, https://zapdas.co/wp-content/uploads/2020/02/cloud-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/cloud-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/cloud-op-48x48.png 48w" sizes="(max-width: 77px) 100vw, 77px" class="et-waypoint et_pb_animation_top" /></noscript></span></a></div>
+         <div class="et_pb_blurb_container">
+            <h4 class="et_pb_module_header"><a href="https://zapdas.co/services/#Cloud_Management">Cloud Management</a></h4>
+            <div class="et_pb_blurb_description"><p><span style="color: rgba(41, 41, 41, 0.65);">A blended-shore model guarantees rapid development and 24×7 uptime.</span></p></div>
+         </div>
+      </div> <!-- .et_pb_blurb_content -->
+   </div> <!-- .et_pb_blurb --><div class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_5  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light et_had_animation" style="">
+      
+      
+      <div class="et_pb_blurb_content">
+         <div class="et_pb_main_blurb_image"><a href="https://zapdas.co/services/#Web_Application"><span class="et_pb_image_wrap"><img alt="" data-srcset="https://zapdas.co/wp-content/uploads/2020/02/Qa-op.png 72w, https://zapdas.co/wp-content/uploads/2020/02/Qa-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/Qa-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/Qa-op-48x48.png 48w" data-src="https://zapdas.co/wp-content/uploads/2020/02/Qa-op.png" data-sizes="(max-width: 72px) 100vw, 72px" class="et-waypoint et_pb_animation_top et-animated ls-is-cached lazyloaded" src="https://zapdas.co/wp-content/uploads/2020/02/Qa-op.png" sizes="(max-width: 72px) 100vw, 72px" srcset="https://zapdas.co/wp-content/uploads/2020/02/Qa-op.png 72w, https://zapdas.co/wp-content/uploads/2020/02/Qa-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/Qa-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/Qa-op-48x48.png 48w"><noscript><img src="https://zapdas.co/wp-content/uploads/2020/02/Qa-op.png" alt="" srcset="https://zapdas.co/wp-content/uploads/2020/02/Qa-op.png 72w, https://zapdas.co/wp-content/uploads/2020/02/Qa-op-24x24.png 24w, https://zapdas.co/wp-content/uploads/2020/02/Qa-op-36x36.png 36w, https://zapdas.co/wp-content/uploads/2020/02/Qa-op-48x48.png 48w" sizes="(max-width: 72px) 100vw, 72px" class="et-waypoint et_pb_animation_top" /></noscript></span></a></div>
+         <div class="et_pb_blurb_container">
+            <h4 class="et_pb_module_header"><a href="https://zapdas.co/services/#Web_Application">Quality Assurance</a></h4>
+            <div class="et_pb_blurb_description"><p><span style="color: rgba(41, 41, 41, 0.65);">QA can save your money, prevent problems and make users happy.</span></p></div>
+         </div>
+      </div> <!-- .et_pb_blurb_content -->
+   </div> <!-- .et_pb_blurb -->
+   </div> <!-- .et_pb_column -->
+      
+      
+   </div> <!-- .et_pb_row_inner -->
+   </div> <!-- .et_pb_column -->
+      </div> <!-- .et_pb_row -->
+      </div>
+   </div>
